@@ -1,0 +1,8 @@
+[
+  {
+    "package": "fake",
+    "url": "https://github.com/barbarabodinier/fake",
+    "via": ["sharp"],
+    "from": "sharp"
+  }
+]
