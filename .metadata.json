@@ -1,5 +1,9 @@
 [
   {
+    "package": "fake",
+    "oncran": true
+  },
+  {
     "package": "sharp",
     "oncran": true
   }
