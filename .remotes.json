@@ -1,0 +1,8 @@
+[
+  {
+    "package": "rCOSA",
+    "url": "https://github.com/mkampert/rCOSA",
+    "via": ["sharp"],
+    "from": "sharp"
+  }
+]

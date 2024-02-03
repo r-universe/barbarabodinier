@@ -5,6 +5,10 @@
 [submodule "fake"]
 	path = fake
 	url = https://github.com/barbarabodinier/fake
+[submodule "rCOSA"]
+	path = rCOSA
+	url = https://github.com/mkampert/rCOSA
+	registered = false
 [submodule "sharp"]
 	path = sharp
 	url = https://github.com/barbarabodinier/sharp
